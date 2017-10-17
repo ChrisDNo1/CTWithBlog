@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -722,8 +724,9 @@ blockquote {
 /*end colorM*/
 #features1-r .mbr-section-title {
   font-weight: 700;
-  color: #2c3e50;
+  color: #2980b9;
   font-size: 46px;
+  font-family: 'PT Serif', serif;
 }
 #features1-r .mbr-section-subtitle {
   text-transform: uppercase;
@@ -733,49 +736,9 @@ blockquote {
 #features1-r .mbr-section-text {
   color: #000000;
 }
-#features8-q .lead {
-  color: #9fa3a7;
-}
-#features8-q .mbr-section-subtitle {
-  text-transform: uppercase;
-  font-size: 30px;
-  text-align: left;
-  color: #000000;
-}
-#features8-q DIV {
-  color: #ffffff;
-  text-align: left;
-  font-size: 14px;
-}
-#features8-q .mbr-section-text {
-  color: #000000;
-  font-size: 20px;
-}
-#features8-q .mbr-section-title {
-  color: #000000;
-}
-#features8-q .mbr-section-text B {
-  font-size: 30px;
-}
-#header2-2 .mbr-section-title,
-#header2-2 .mbr-section-subtitle,
-#header2-2 .btn {
-  color: #fff;
-}
-#header2-2 .mbr-section-title {
-  font-weight: 700;
-}
-#header9-3 .elements-content {
-  padding-bottom: 50px;
-}
-#header9-3 .mbr-section-subtitle {
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  font-weight: 700;
-}
-#header9-3 .mbr-section-title,
-#header9-3 .tab-pane {
-  color: #000;
+#content3-12 .mbr-section-title,
+#content3-12 .mbr-section-subtitle {
+  text-align: center;
 }
 #features6-6 .lead {
   color: #9fa3a7;
@@ -783,43 +746,22 @@ blockquote {
 #features6-6 .mbr-section-subtitle {
   text-transform: uppercase;
 }
-#header7-9 .mbr-section-subtitle {
-  text-transform: uppercase;
-  color: #9fa3a7;
-}
-#header7-9 .mbr-section-text {
-  color: #9fa3a7;
-}
-#header7-9 .mbr-section-title {
-  color: #242424;
-  font-weight: bold;
-  font-size: 60px;
+#features6-6 .mbr-section-title {
   text-align: center;
 }
-#header7-9 .mbr-section-text B {
-  font-size: 32px;
-  color: #000000;
+#content3-16 .mbr-section-title,
+#content3-16 .mbr-section-subtitle {
+  text-align: center;
 }
-#features6-b .lead {
-  color: #9fa3a7;
+#content3-16 P {
+  text-align: right;
 }
-#features6-b .mbr-section-subtitle {
-  text-transform: uppercase;
+#content3-17 .mbr-section-title,
+#content3-17 .mbr-section-subtitle {
+  text-align: center;
 }
-#features6-c .lead {
-  color: #9fa3a7;
-}
-#features6-c .mbr-section-subtitle {
-  text-transform: uppercase;
-}
-#features5-d .lead {
-  color: #9fa3a7;
-}
-#features5-d .mbr-section-subtitle {
-  text-transform: uppercase;
-}
-#features5-d .card-number {
-  left: -20px;
+#content3-17 H3 {
+  color: #3498db;
 }
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -889,35 +831,24 @@ blockquote {
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#features15-l .mbr-section-title {
-  font-weight: 700;
-}
-#features15-l .display-6 {
-  text-transform: none;
-  letter-spacing: 0px;
-  font-weight: 400;
-  color: #fff;
-}
-#features15-l .mbr-cards-row {
-  margin-top: 40px;
-}
-#features8-m .lead {
-  color: #9fa3a7;
-}
-#features8-m .mbr-section-subtitle {
-  text-transform: uppercase;
-}
-#features8-m .mbr-section-text {
-  color: #c0392b;
-}
-#features8-n .lead {
-  color: #9fa3a7;
-}
-#features8-n .mbr-section-subtitle {
-  text-transform: uppercase;
+#content2-t BLOCKQUOTE {
   color: #000000;
-  font-size: 25px;
 }
-#features8-n DIV {
-  color: #000000;
+#content2-t P {
+  color: #2980b9;
+  font-size: 22px;
+}
+#content2-t DIV {
+  color: #2980b9;
+}
+#content3-14 .mbr-section-title,
+#content3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-14 P {
+  text-align: right;
+}
+#content3-15 .mbr-section-title,
+#content3-15 .mbr-section-subtitle {
+  text-align: center;
 }
