@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -40,23 +40,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "700",
-              "color": "#2980b9",
-              "font-size": "46px",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          },
           "title1": "Bootstrap 4",
           "title2": "Responsive",
           "title3": "Web Fonts",
@@ -110,6 +93,10 @@
               "size": 0,
               "color": "#fff",
               "family": "et-line"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "subtitle1": "The Men’s Lawn Bowls Club associated with Sydney City Tattersalls.&nbsp;",
@@ -132,6 +119,10 @@
               "size": 0,
               "color": "#fff",
               "family": "et-line"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "subtitle2": "<br>Club meets and plays  Tuesdays  throughout the year.<br><br><b>Enquiries: Mark Cooper 0415 904 401</b>",
@@ -155,6 +146,10 @@
               "size": 0,
               "color": "#fff",
               "family": "et-line"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "subtitle3": "New members and visiting bowlers warmly welcomed",
@@ -175,6 +170,10 @@
               "size": 0,
               "color": "#fff",
               "family": "et-line"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -195,6 +194,10 @@
               "size": 0,
               "color": "#fff",
               "family": "et-line"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "subtitle5": "Choose from the large selection of blocks",
@@ -215,11 +218,29 @@
               "size": 0,
               "color": "#fff",
               "family": "et-line"
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>"
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features1 features4 mbr-after-navbar\" data-rv-view=\"0\" style=\"background-color: rgb(236, 240, 241); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"12\"><br>City Tattersalls Bowling Combination&nbsp;</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-600x399.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"13\">The Men’s Lawn Bowls Club associated with Sydney City Tattersalls.&nbsp;</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"14\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/55-2967232-ips090215iusbowls5-fct910x683x66.0-ct620x465-600x449.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"15\"><br>Club meets and plays  Tuesdays  throughout the year.<br><br><strong>Enquiries: Mark Cooper 0415 904 401</strong></h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"16\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/bowls-small-600x400.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"17\">New members and visiting bowlers warmly welcomed</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"18\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);\n.mbr-section-title {\n  font-weight: 700;\n  color: #2980b9;\n  font-size: 46px;\n  font-family: 'PT Serif', serif;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #000000;\n}\n.mbr-section-text {\n  color: #000000;\n}\n",
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -233,7 +254,7 @@
             "paddingBottom": 1,
             "bgColor": "#ecf0f1"
           },
-          "title": "<br><br>Where We Play",
+          "title": "<br><br>About Us",
           "meta": "On Tuesdays social lawn bowls or club competitions are played when at home at Greenlees Park. \n<br>Mostly on every second Tuesdays the club plays away at other bowling clubs. Competition is strong. \n<br>Once a year all the City Tattersalls Clubs get together for the Turf Bowlers Carnival. This club is the strongest mid week bowling club in Sydney. &nbsp;Great comeraderie exists.. \n<br>We would be very happy for you to join the men’s lawn bowls combination club, as we always welcome new members.&nbsp;",
           "_tags": [
             "Theme"
@@ -349,14 +370,14 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#3498db"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ecf0f1"
+            "bgColor": "#ffffff"
           },
           "title": "<br><br>Club Fixtures",
           "meta": "",
@@ -372,7 +393,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -386,10 +408,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.875rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.948rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -401,13 +423,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20638f"
+              "background": "#1a242f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2677ac!important"
+              "background": "#273646!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2980b9"
+              "background": "#2c3e50"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -421,6 +443,15 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f39c12!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "alias": "colorm/components",
@@ -436,13 +467,9 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#2980b9",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "bgColor": "#2c3e50",
+            "fontSize": 0.875,
+            "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -463,33 +490,30 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-12\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ctbowling.blogspot.com\" target=\"_blank\">WET WEATHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-17\">FIXTURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-12\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-16\">HISTORY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ctbowling.blogspot.com\" target=\"_blank\">WET WEATHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-17\">FIXTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-14\">RESULTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-15\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "alias": "colorm/components",
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<br><br>&nbsp;Where We Play",
+          "meta": "JULY\n<br>Tuesday 4       Greenlees Park  97431907  12 noon\n<br>Tuesday 11     Keith Free Triples Greenlees Park  10am\n<br>Tuesday 18     Greenlees Park  12 noon\n<br>Tuesday 25     Greenlees Park  12 noon\n<br>       \n<br>AUGUST       \n<br>Tuesday 1       Ralph Johns Handicap Fours -Greenlees Park  9.30 am\n<br>Tuesday 8       Hunters Hill 98173324  1pm\n<br>Tuesday 15     Greenlees Park  12 noon\n<br>Tuesday 22     AGM Greenlees Park-  10.30 am\n<br>     Meeting 10.30 am -Lunch 12 noon- Bowls 1pm  \n<br>Tuesday 29     Gymea 95244688  1pm\n<br>       \n<br>SEPTEMBER       \n<br>Tuesday 5       Greenlees Park  12 noon\n<br>Tuesday 12     Padstow  977738917  1pm\n<br>Tuesday 19     Putney 98074964 -  Sausage Sizzle 11.45am  12.30pm\n<br>Tuesday 26     Greenacre  97597445  1pm\n<br>       \n<br>OCTOBER       \n<br>Tuesday 3       Laurie Taylor Memorial- Greenlees Park  11.30am\n<br>Tuesday 10     West Sports   97161800  12.30pm\n<br>Tuesday 17     Denistone  98743650  1pm\n<br>Tuesday 24     Greenlees Park  12 noon\n<br>Tuesday 31     South Coogee    93446557  12.30pm\n<br>       \n<br>NOVEMBER       \n<br>Tuesday 7       Melbourne Cup - no bowls  \n<br>Tuesday 14     Grandviews 95332255  1pm\n<br>Tuesday 21     Greenlees Park  12 noon\n<br>Tuesday 28     Greenlees Park Xmas Triples  10am,  Lunch 1pm\n<br>\n<br>DECEMBER       \n<br>Tuesday 5       Xmas Party   TBA\n<br>Tuesday 12 &nbsp; &nbsp; &nbsp; &nbsp;<br>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#2980b9",
-              "font-size": "22px"
-            },
-            "DIV": {
-              "color": "#2980b9"
-            }
-          },
-          "_anchor": "content2-t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ecf0f1"
-          },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>CLUB FIXTURES JULY TO DECEMBER  2017 &nbsp;</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>JULY &nbsp;</b></p><p><b>Tuesday 4\tGreenlees Park  97431907\t12 noon</b></p><p><b>Tuesday 11\tKeith Free Triples Greenlees Park\t10am</b></p><p><b>Tuesday 18\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 25\tGreenlees Park\t12 noon</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>AUGUST &nbsp;</b></p><p><b>Tuesday 1\tRalph Johns Handicap Fours -Greenlees Park\t9.30 am</b></p><p><b>Tuesday 8\tHunters Hill 98173324\t1pm</b></p><p><b>Tuesday 15\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 22\tAGM Greenlees Park-\t10.30 am</b></p><p><b>&nbsp;Meeting 10.30 am -Lunch 12 noon- Bowls 1pm&nbsp;</b></p><p><b>Tuesday 29\tGymea 95244688\t1pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>SEPTEMBER &nbsp;</b></p><p><b>Tuesday 5\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 12\tPadstow  977738917\t1pm</b></p><p><b>Tuesday 19\tPutney 98074964 -  Sausage Sizzle 11.45am\t12.30pm</b></p><p><b>Tuesday 26\tGreenacre  97597445\t1pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>OCTOBER &nbsp;</b></p><p><b>Tuesday 3\tLaurie Taylor Memorial- Greenlees Park\t11.30am</b></p><p><b>Tuesday 10\tWest Sports   97161800\t12.30pm</b></p><p><b>Tuesday 17\tDenistone  98743650\t1pm</b></p><p><b>Tuesday 24\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 31\tSouth Coogee    93446557\t12.30pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>NOVEMBER &nbsp;</b></p><p><b>Tuesday 7\tMelbourne Cup - no bowls&nbsp;</b></p><p><b>Tuesday 14\tGrandviews 95332255\t1pm</b></p><p><b>Tuesday 21\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 28\tGreenlees Park Xmas Triples\t10am&nbsp;</b><b style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;Lunch 1pm&nbsp;</b></p><p><b><br></b></p><p><b>DECEMBER &nbsp;</b></p><p><b>Tuesday 5\tXmas Party \tTBA</b></p><p><b>Tuesday 12 &nbsp;</b></p><p><b>&nbsp;&nbsp;</b></p><p><b><br></b></p><p></p>"
+          "_name": "content3",
+          "_anchor": "content3-19"
         },
         {
           "_styles": {
@@ -502,7 +526,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
