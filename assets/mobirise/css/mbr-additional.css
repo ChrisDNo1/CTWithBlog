@@ -1,9 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 
 
 
@@ -722,6 +721,9 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
+#features1-r {
+  
+}
 #features1-r .mbr-section-title {
   font-weight: 700;
   color: #2980b9;
@@ -761,13 +763,14 @@ blockquote {
   text-align: center;
 }
 #content3-17 H3 {
-  color: #3498db;
+  color: #000000;
 }
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-j .navbar-caption {
   color: #ffffff;
+  font-size: 12px;
 }
 #menu-j .navbar-toggler {
   color: #ffffff;
@@ -782,11 +785,11 @@ blockquote {
   font-family: 'Oswald', sans-serif;
 }
 #menu-j .link {
-  font-size: 0.85rem;
+  font-size: 0.875rem;
 }
 #menu-j .dropdown-item,
 #menu-j .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.948rem;
 }
 #menu-j .link:hover,
 #menu-j .link:focus {
@@ -802,19 +805,19 @@ blockquote {
 }
 #menu-j .link[aria-expanded="true"],
 #menu-j .dropdown-menu {
-  background: #20638f;
+  background: #1a242f;
 }
 #menu-j .nav-dropdown-sm .link:focus,
 #menu-j .nav-dropdown-sm .link:hover,
 #menu-j .nav-dropdown-sm .dropdown-item:focus,
 #menu-j .nav-dropdown-sm .dropdown-item:hover {
-  background: #2677ac!important;
+  background: #273646!important;
 }
 #menu-j .navbar,
 #menu-j .nav-dropdown-sm,
 #menu-j .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-j .nav-dropdown-sm .dropdown-menu {
-  background: #2980b9;
+  background: #2c3e50;
 }
 #menu-j .bg-color.transparent .link {
   color: #ffffff;
@@ -831,15 +834,21 @@ blockquote {
 #menu-j .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#content2-t BLOCKQUOTE {
-  color: #000000;
+#menu-j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#content2-t P {
-  color: #2980b9;
-  font-size: 22px;
+#menu-j .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#content2-t DIV {
-  color: #2980b9;
+#menu-j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content3-19 .mbr-section-title,
+#content3-19 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-19 P {
+  font-size: 12px;
 }
 #content3-14 .mbr-section-title,
 #content3-14 .mbr-section-subtitle {
