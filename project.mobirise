@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-12-30_0929",
+    "name": "tests",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -23,10 +23,14 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 46,
+    "uniqCompNum": 54,
     "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -39,6 +43,18 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section style=\"background-color: rgb(111, 76, 114);\">\n    <br>\n<div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n<div class=\"mbr-hero animated fadeInUp\"> \n</div>\n<div class=\"mbr-buttons btn-inverse mbr-buttons--center\"><p><a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"inyourface.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"37\">HOME</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"about.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"38\">ABOUT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"more.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"39\">MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"contact.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"40\">CONTACT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"http://www.stcdesigns.com/mobirise/inyourface/inyourface.rar\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"41\">DOWNLOAD</a><br><br>\n\n    </p>  </div></div>\n    </div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(undefined);\n.btn {\n background: none;/*this for transparent button*/\n    border: 1px solid RED;/* this is for button border*/\n    color: WHITE;/* this is text colour*/\n}\na:hover {\nbackground-color: none;/* button hover colour*/\nborder: 1px solid #bd7dfd;\n    color: #bd7dfd;/* text hover colour*/\n}\n\n.btn {padding: 4px 10px;}\n\n\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1c"
+        },
         {
           "title1": "Bootstrap 4",
           "title2": "Responsive",
@@ -236,7 +252,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features1 features4 mbr-after-navbar\" data-rv-view=\"0\" style=\"background-color: rgb(236, 240, 241); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"12\"><br>City Tattersalls Bowling Combination&nbsp;</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-600x399.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"13\">The Men’s Lawn Bowls Club associated with Sydney City Tattersalls.&nbsp;</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"14\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/55-2967232-ips090215iusbowls5-fct910x683x66.0-ct620x465-600x449.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"15\"><br>Club meets and plays  Tuesdays  throughout the year.<br><br><strong>Enquiries: Mark Cooper 0415 904 401</strong></h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"16\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/bowls-small-600x400.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"17\">New members and visiting bowlers warmly welcomed</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"18\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features1 features4 mbr-after-navbar\" data-rv-view=\"0\" style=\"background-color: rgb(236, 240, 241); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"22\"><br>City Tattersalls Bowling Combination&nbsp;</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-600x399.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"23\">A SPORTING &nbsp;Club associated with the City Tattersalls Club, Sydney</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"24\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/55-2967232-ips090215iusbowls5-fct910x683x66.0-ct620x465-600x449.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"25\"><br>Club meets and plays  Tuesdays  throughout the year.<br><br><strong>Enquiries: Phone<br> 0415 904 401</strong></h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"26\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/bowls-small-600x400.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"27\">New members and visiting bowlers warmly welcomed</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"28\"></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);\n.mbr-section-title {\n  font-weight: 700;\n  color: #2980b9;\n  font-size: 46px;\n  font-family: 'PT Serif', serif;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #000000;\n}\n.mbr-section-text {\n  color: #000000;\n}\n",
@@ -255,7 +271,7 @@
             "bgColor": "#ecf0f1"
           },
           "title": "<br><br>About Us",
-          "meta": "On Tuesdays social lawn bowls or club competitions are played when at home at Greenlees Park. \n<br>Mostly on every second Tuesdays the club plays away at other bowling clubs. Competition is strong. \n<br>Once a year all the City Tattersalls Clubs get together for the Turf Bowlers Carnival. This club is the strongest mid week bowling club in Sydney. &nbsp;Great comeraderie exists.. \n<br>We would be very happy for you to join the men’s lawn bowls combination club, as we always welcome new members.&nbsp;",
+          "meta": "On Tuesdays social lawn bowls or club competitions are played when at home at Greenlees Park. \n<br>Mostly on every second Tuesdays the club plays away at other bowling clubs. Competition is strong. \n<br>Once a year all the City Tattersalls Clubs and other similar cluba from around Australia <br>get together for the Turf Bowlers Carnival. <br>This club is the strongest mid week bowling club in Sydney. &nbsp;Great comeraderie exists.. \n<br>We would be very happy for you to join the men’s lawn bowls combination club,<br> as we always welcome new members.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -357,7 +373,7 @@
             "bgColor": "#ecf0f1"
           },
           "title": "<br><br>History of the Club<br><br>",
-          "meta": "(Article by Ralph Johns; Current President)<br><br>The starting date is unclear but we go back to at least 1960. &nbsp;&nbsp;The original  members were all racing people, bookmakers, their staff, punters, owners etc. &nbsp;There was a lot of betting between players, it was common that several players would have 6 - 10 bets on their result against the opponents. That led to the out of a hat draw system so it was a matter of luck if you got a skip like Dick Jones (won the City Masters Singles) or a moderate skip. It was all part of the fun. &nbsp; The club has since been opened up for other bowlers to join. &nbsp;The popularity has been such that players from clubs all over the metropolitan area have joined and made this their mid week bowling activity.<br><br>In the early 1960's City Tatts started playing against Canberra Tatts fn the 'Club Challenge Cup'. This was the seedling that grew into the tree that is now the Australian Turf Bowlers Carnival, played annually all over Austra lia between 9 Australian teams and 1 Singapore Cricket Club team making up\n<br>the bye, this competition is now up to its 53rd playing t his year.\n<br>We had our 'home' club at Petersham for years, but with that club' s demise we switche d to Greenlees Park w here we are very happy and well looked after.\n<br>Some great men have led our club, Laurie Fraser, Chairman of  the  City Tatts Main Club and Keith Free Treasurer of the  main club are most memorable..\n<br>The respect in which they are held at the senior club is unsur passe d. Both t hesemen have excellent portraits hanging in the foyer of the City Tatts, Pitt St Sydney. A great compliment and fully deserved .\n<br>Wally Duval was our most recent past President, a remarkable man, an ex-milkman who befriended\n<br>Keith Free after a game some 30 odd years ago. Wally served as President for 26 consecutiv e years. We lost Wally to cancer in 2013? A sad loss of a man never to be forgotten and his memory is preserved by one Competition Cup and one mostconsistent player award contested annually.&nbsp;<br><br>(Article by Ralph Johns; Current President)<br>",
+          "meta": "(Article by Ralph Johns; Current President)<br><br>The starting date is unclear but we go back to at least 1960. &nbsp;&nbsp;The original  members were all racing people, bookmakers, their staff, punters, owners etc. &nbsp;There was a lot of betting between players, it was common that several players would have 6 - 10 bets on their result against the opponents. That led to the out of a hat draw system so it was a matter of luck if you got a skip like Dick Jones (won the City Masters Singles) or a moderate skip. It was all part of the fun. &nbsp; The club has since been opened up for other bowlers to join. &nbsp;The popularity has been such that players from clubs all over the metropolitan area have joined and made this their mid week bowling activity.<br><br>In the early 1960's City Tatts started playing against Canberra Tatts fn the 'Club Challenge Cup'. This was the seedling that grew into the tree that is now the Australian Turf Bowlers Carnival, played annually all over Austra lia between 9 Australian teams and 1 Singapore Cricket Club team making up&nbsp;the bye. And as at 2017 this competition is now up to its 53rd &nbsp;year.\n<br>We had our 'home' club at Petersham for years, but with that club' s demise we switched to Greenlees Park in Concord where we are very happy and well looked after.\n<br>Some great men have led our club, Laurie Fraser, Chairman of  the  City Tatts Main Club and Keith Free Treasurer of the  main club are most memorable..\n<br>The respect in which they are held at the senior club is unsur passe d. Both these men have excellent portraits hanging in the foyer of the City Tatts, Pitt St Sydney. A great compliment and fully deserved .\n<br>Wally Duval was our most recent past President, a remarkable man, an ex-milkman who befriended\n<br>Keith Free after a game some 30 odd years ago. Wally served as President for 26 consecutiv e years. We lost Wally to cancer in 2013. &nbsp;A sad loss of a man never to be forgotten and his memory is preserved by one Competition Cup and one mostconsistent player award contested annually.&nbsp;<br><br>(Article by Ralph Johns; Current President)<br>",
           "_tags": [
             "Theme"
           ],
@@ -489,8 +505,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-12\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-16\">HISTORY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ctbowling.blogspot.com\" target=\"_blank\">WET WEATHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-17\">FIXTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-14\">RESULTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-15\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION<br>PHONE: &nbsp;0415 904 401<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-12\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-16\">HISTORY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-17\">FIXTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-14\">RESULTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-15\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#custom-html-1f\">NOTICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -508,7 +524,7 @@
             "bgColor": "#fff"
           },
           "title": "<br><br>&nbsp;Where We Play",
-          "meta": "JULY\n<br>Tuesday 4       Greenlees Park  97431907  12 noon\n<br>Tuesday 11     Keith Free Triples Greenlees Park  10am\n<br>Tuesday 18     Greenlees Park  12 noon\n<br>Tuesday 25     Greenlees Park  12 noon\n<br>       \n<br>AUGUST       \n<br>Tuesday 1       Ralph Johns Handicap Fours -Greenlees Park  9.30 am\n<br>Tuesday 8       Hunters Hill 98173324  1pm\n<br>Tuesday 15     Greenlees Park  12 noon\n<br>Tuesday 22     AGM Greenlees Park-  10.30 am\n<br>     Meeting 10.30 am -Lunch 12 noon- Bowls 1pm  \n<br>Tuesday 29     Gymea 95244688  1pm\n<br>       \n<br>SEPTEMBER       \n<br>Tuesday 5       Greenlees Park  12 noon\n<br>Tuesday 12     Padstow  977738917  1pm\n<br>Tuesday 19     Putney 98074964 -  Sausage Sizzle 11.45am  12.30pm\n<br>Tuesday 26     Greenacre  97597445  1pm\n<br>       \n<br>OCTOBER       \n<br>Tuesday 3       Laurie Taylor Memorial- Greenlees Park  11.30am\n<br>Tuesday 10     West Sports   97161800  12.30pm\n<br>Tuesday 17     Denistone  98743650  1pm\n<br>Tuesday 24     Greenlees Park  12 noon\n<br>Tuesday 31     South Coogee    93446557  12.30pm\n<br>       \n<br>NOVEMBER       \n<br>Tuesday 7       Melbourne Cup - no bowls  \n<br>Tuesday 14     Grandviews 95332255  1pm\n<br>Tuesday 21     Greenlees Park  12 noon\n<br>Tuesday 28     Greenlees Park Xmas Triples  10am,  Lunch 1pm\n<br>\n<br>DECEMBER       \n<br>Tuesday 5       Xmas Party   TBA\n<br>Tuesday 12 &nbsp; &nbsp; &nbsp; &nbsp;<br>",
+          "meta": "JULY\n<br>Tuesday 4       Greenlees Park  97431907  12 noon\n<br>Tuesday 11     Keith Free Triples Greenlees Park  10am\n<br>Tuesday 18     Greenlees Park  12 noon\n<br>Tuesday 25     Greenlees Park  12 noon\n<br>       \n<br>AUGUST       \n<br>Tuesday 1       Ralph Johns Handicap Fours -Greenlees Park  9.30 am\n<br>Tuesday 8       Hunters Hill 98173324  1pm\n<br>Tuesday 15     Greenlees Park  12 noon\n<br>Tuesday 22     AGM Greenlees Park-  10.30 am\n<br>     Meeting 10.30 am -Lunch 12 noon- Bowls 1pm  \n<br>Tuesday 29     Gymea 95244688  1pm\n<br>       \n<br>SEPTEMBER       \n<br>Tuesday 5       Greenlees Park  12 noon\n<br>Tuesday 12     Padstow  977738917  1pm\n<br>Tuesday 19     Putney 98074964 -  Sausage Sizzle 11.45am  12.30pm\n<br>Tuesday 26     Greenacre  97597445  1pm\n<br>       \n<br>OCTOBER       \n<br>Tuesday 3       Laurie Taylor Memorial- Greenlees Park  11.30am\n<br>Tuesday 10     West Sports   97161800  12.30pm\n<br>Tuesday 17     Denistone  98743650  1pm\n<br>Tuesday 24     Greenlees Park  12 noon\n<br>Tuesday 31     South Coogee    93446557  12.30pm\n<br>       \n<br>NOVEMBER       \n<br>Tuesday 7       Melbourne Cup - no bowls  \n<br>Tuesday 14     Grandviews 95332255  1pm\n<br>Tuesday 21     Greenlees Park  12 noon\n<br>Tuesday 28     Greenlees Park Xmas Triples  10am,  Lunch 1pm\n<br>\n<br>DECEMBER       \n<br>Tuesday 5       Xmas Party   TBA\n<br>Tuesday 12 &nbsp; <br>&nbsp; &nbsp; &nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -606,6 +622,184 @@
             ]
           },
           "_anchor": "news1-f"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1a242f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#273646!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2c3e50"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2c3e50",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/citytattslogo20percent-116x128-30.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION<br>PHONE: &nbsp;0415 904 401<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-12\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-16\">HISTORY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-17\">FIXTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-14\">RESULTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-15\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#custom-html-1f\">NOTICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-1e"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section style=\"background-color: rgb(111, 76, 114);\">\n    <br>\n<div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-center\">\n<div class=\"mbr-hero animated fadeInUp\"> \n</div>\n<div class=\"mbr-buttons btn-inverse mbr-buttons--center\"><p><a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"inyourface.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"424\">HOME</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"about.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"425\">ABOUT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"more.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"426\">MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"contact.html\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"427\">CONTACT</a> <a class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeIn  mbr-editable-button\" href=\"http://www.stcdesigns.com/mobirise/inyourface/inyourface.rar\" style=\"font-size: 10px; font-family: Oxygen, sans-serif;\" code-editable-id=\"428\">DOWNLOAD</a><br><br>\n\n    </p>  </div></div>\n    </div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(undefined);\n.btn {\n background: none;/*this for transparent button*/\n    border: 1px solid RED;/* this is for button border*/\n    color: WHITE;/* this is text colour*/\n}\na:hover {\nbackground-color: none;/* button hover colour*/\nborder: 1px solid #bd7dfd;\n    color: #bd7dfd;/* text hover colour*/\n}\n\n.btn {padding: 4px 10px;}\n\n\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1f"
+        },
+        {
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<br><br>Blog<br><br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1g",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n   <iframe src=\"http://ctbowling.blogspot.com.au/\" width=\"100%\" height=\"500\">\n&amp;amp;amp;amp;amp;lt;p&amp;amp;amp;amp;amp;gt;Your browser does not support iFrames.&amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;gt;\n</iframe> \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline=\"\" title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\">\n            <hr class=\"line\">\n            <div class=\"section-text align-center mbr-fonts-style\"></div>\n            <hr class=\"line\">\n        </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffc80a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffc80a",
+            "overlayOpacity": 0.9
+          },
+          "title": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features17",
+          "_anchor": "features17-1h",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"37\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/02.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(255, 200, 10);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-4 text-xs-left\">\n\n                    <div class=\"col-xs-12 col-lg-8 mbr-table-cell text-xs-left\">\n                        \n                        <h1 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"17\"></h1>\n\n                    </div>\n                        \n                    <div class=\"col-xs-12 col-lg-4 mbr-table-cell text-xs-center\">\n                        \n                        <div class=\"mbr-section-btn\"><a class=\"btn btn-white-outline mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"18\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n                    \n                    </div>\n\n                </div>\n\n            </div>\n        </div>\n\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  font-weight: 400;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #fff;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
